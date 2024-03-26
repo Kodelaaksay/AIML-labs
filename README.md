@@ -1,8 +1,6 @@
 
-Lab-01:[introduction in python packages-numpy,pandas,matploit and acces to data sources](https://github.com/Kodelaaksay/AIML-labs/blob/main/lab02.ipynb)
-[Lab-02] ()
-(https://github.com/Kodelaaksay/AIML-labs/blob/main/lab02.ipynb)
-[lab-3]
-(https://github.com/Kodelaaksay/AIML-labs/blob/main/AIML_LAB_03.ipynb)
-[lab-4]
-(https://github.com/Kodelaaksay/AIML-labs/blob/main/Lab-04.ipynb)
+Lab-01:[INTRODUCTION IN PYTHON PACKAGES-NUMPY,PANDAS,MATPLOTLIB AND ACCESS TO DATA SOURCES](https://github.com/Kodelaaksay/AIML-labs/blob/main/lab02.ipynb)
+LAB-02:[IMPLEMENT AI SEARCH USING BREADTH FIRST,DEPTH FIRST AND A* SEARCH ALGORITHM USING PYTHON] (https://github.com/Kodelaaksay/AIML-labs/blob/main/lab02.ipynb)
+LAB-03:[IMPLEMENT AI GAME STRATEGY USING MINMAX AND ALPHA-BETA SEARCH ALGORITHM] (https://github.com/Kodelaaksay/AIML-labs/blob/main/AIML_LAB_03.ipynb)
+LAB-04:[IMPLEMENT LINEAR REGRESSION USING BOSTON HOUSING DATA] (https://github.com/Kodelaaksay/AIML-labs/blob/main/Lab-04.ipynb)
+[lab-5]
