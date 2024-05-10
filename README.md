@@ -8,4 +8,4 @@ LAB-06:[K-NEAREST NEIGHBOUR CLASSIFICATION USING CLASSIFIED MANUFACTURING DATASE
 LAB-07:[IMPLEMENT SUPPORT VECTOR MACHINE CLASSIFICATION USING BREAST CANCER DATASET](https://github.com/Kodelaaksay/AIML-labs/blob/main/AIML_LAB_07.ipynb)
 LAB-08:[IMPLEMENT DECISION TREE CLASSIFIER USING LEADING CLIB DATA](https://github.com/Kodelaaksay/AIML-labs/blob/main/AIML_LAB_08.ipynb)
 LAB-09:https://github.com/Kodelaaksay/AIML-labs/blob/main/AIML%20LAB-09.ipynb
-LAB-10:
+LAB-10:https://github.com/Kodelaaksay/AIML-labs/blob/main/AIML%20LAB-10.ipynb
